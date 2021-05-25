@@ -1,6 +1,6 @@
 
-n = 21
-Round = 2
+n = 11
+Round = 3
 
 #EQB = []
 #EQA = []
